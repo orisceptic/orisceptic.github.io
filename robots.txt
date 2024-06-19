@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orisceptic.github.io/sitemap
+Sitemap: https://orisceptic.github.io/app/sitemap
+Sitemap: https://orisceptic.github.io/assets/sitemap
+Sitemap: https://orisceptic.github.io/css/sitemap
+Sitemap: https://orisceptic.github.io/includes/sitemap
+Sitemap: https://orisceptic.github.io/item/sitemap
+Sitemap: https://orisceptic.github.io/src/sitemap
